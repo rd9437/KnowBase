@@ -5,8 +5,7 @@
 Unified control room to build, launch, and govern AI assistants.  
 Manage documents, deploy chat widgets, monitor usage, and resolve unanswered conversations — all from one workspace.
 
-<img width="1198" height="824" alt="image" src="https://github.com/user-attachments/assets/08cf2b68-3c0f-4205-8d5f-fc2eb71c7835" />
-
+<img width="1206" height="826" alt="image" src="https://github.com/user-attachments/assets/32c23889-038b-47ed-9150-caaefa7595ec" />
 
 ---
 
